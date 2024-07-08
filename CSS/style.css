@@ -76,6 +76,10 @@ img {
     width: 15%;
 }
 
+.email span {
+    color: #EAAFC8;
+}
+
 .mobile {
     display: flex;
     justify-content: center;
@@ -88,6 +92,9 @@ img {
     width: 15%;
 }
 
+.mobile span {
+    color: #785CA8;
+}
 
 .button {
     display: flex;
